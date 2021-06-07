@@ -1,0 +1,9 @@
+{
+  "name": "Black blank new tab",
+  "version": "1.0",
+  "description": "A Chrome extension to set a black blank new tab page",
+  "chrome_url_overrides" : {
+    "newtab": "newTab.html"
+  },
+  "manifest_version": 2
+}
