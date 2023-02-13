@@ -4,6 +4,7 @@ A Chrome extension to set a black blank new tab page
 
 ![image](https://user-images.githubusercontent.com/3038111/218349793-b952a0a3-44e4-41aa-89fe-a65551812d7e.png)
 
+Install it from [Chrome Store](https://chrome.google.com/webstore/detail/black-blank-new-tab/ieefjpaiilcadbajhiooblilnaebmigh/related)
 
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ieefjpaiilcadbajhiooblilnaebmigh.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
 
