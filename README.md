@@ -1,4 +1,5 @@
-# black-blank-page
+# chrome-black-new-tab-page
+
 A Chrome extension to set a black blank new tab page
 
 ![image](https://user-images.githubusercontent.com/3038111/218349793-b952a0a3-44e4-41aa-89fe-a65551812d7e.png)
